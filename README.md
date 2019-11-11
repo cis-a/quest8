@@ -1,2 +1,2 @@
-# quest8
-For WCS quest 8 (Git part 2)
+# Git Remote
+Luke, I am your father!
